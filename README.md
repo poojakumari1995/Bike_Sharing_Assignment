@@ -27,5 +27,5 @@ Install the required dependencies listed in requirements.txt.
 Run the Jupyter notebooks in the notebooks directory in sequential order.
 Explore the analysis, visualizations, and modeling results presented in the notebooks.
 Contributors
-Your Name: Data Analyst
+Pooja Kumari: Data Analyst
 License
